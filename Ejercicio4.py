@@ -72,3 +72,4 @@ Dia=int(input("Introduce el día del mes: "))
 Signo=("Obtener_Signo_Zodiacal:" , Mes, Dia)
 #Imprimir el signo zodiacal
 print("El signo zodiacal es:" , Signo)
+#El programa no registra el signo zodiacal

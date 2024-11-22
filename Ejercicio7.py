@@ -8,11 +8,11 @@ def Evaluar_Postulante(Edad, Estatura, Peso):
         return "El postulante no cumple con los requisitos para el equipo de baloncesto:"
 #Solicitar los datos del postulante
 print("Evaluación para el equipo de baloncesto:")
-Edad=int(input("Ingrese la edad del postulante (en años): "))
+Edad=int(input("Ingrese la edad del postulante en años:"))
 Estatura=float(input("Ingrese la estatura del postulante (en cm): "))
 Peso=float(input("Ingrese el peso del postulante (en kg): "))
 #Evaluar al postulante
 Resultado=Evaluar_Postulante(Edad, Estatura, Peso)
 #Imprimir el resultado
 print(Resultado)
-  
+#Programa cumple con las especificaciones solicitadas

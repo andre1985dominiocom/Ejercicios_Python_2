@@ -28,3 +28,4 @@ elif Bien>7.5 and 8:
   print("Mostrar A")
 else:
   print("Mostrar No Aprobado")
+#El programa solo muestra la califiación como resultado A

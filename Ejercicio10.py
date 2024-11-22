@@ -40,3 +40,4 @@ print("Cantidad de alumnos en el rango 'a' (90-99):" , Rango_a)
 print("Cantidad de alumnos en el rango 'b' (80-89):" , Rango_b)
 print("Cantidad de alumnos en el rango 'c' (70-79):" , Rango_c)
 print("Cantidad de alumnos en el rango 'd' (60-69):" , Rango_d)
+#Problemas con la linea 21 para calcular las notas

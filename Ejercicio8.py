@@ -36,3 +36,4 @@ print("Resultados finales:")
 print("Cantidad de alumnos que pasaron:" , Pasaron)
 print("Cantidad de alumnos que desaprobaron:" , Desaprobaron)
 print("Cantidad de alumnos que cumplieron dos de los requisitos:", Cumplieron_Dos_Requisitos)
+#Programa cumple con las especificaciones solicitas

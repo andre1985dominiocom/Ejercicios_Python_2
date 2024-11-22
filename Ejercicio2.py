@@ -14,7 +14,7 @@ def Calcular_Interes(Saldo):
 #Leer el saldo inicial
 Saldo=float(input("Introduce el saldo de la cuenta: "))
 #Calcular el interés y el saldo final
-interes=Calcular_Interes*Saldo
+Interes=Calcular_Interes*Saldo
 #Imprimir los resultados
 print("Saldo final:")
 print("Interés pagado:")
@@ -24,4 +24,4 @@ if 100000<0.3:
   print("Calcular el interes pagado")
 elif 100000>0.4:
   print("Calcular intereses pagados")
-  
+#Problemas para calcular los intereses en la linea 17

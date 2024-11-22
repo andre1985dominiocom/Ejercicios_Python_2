@@ -13,3 +13,4 @@ Cursos=int(input("Ingrese la cantidad de cursos que lleva el alumno:"))
 Pago_Total=Calcular_Pago(Cursos)
 #Imprimir el resultado
 print("El costo total de los cursos es:" , Pago_Total)
+#Programa cumple con los parametros

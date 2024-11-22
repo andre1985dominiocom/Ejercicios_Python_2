@@ -19,3 +19,4 @@ Fórmula=input("Introduce la fórmula química:")
 Nombre=("Compuesto químico:")
 #Imprimir el nombre del compuesto
 print("El nombre del compuesto es:", Nombre)
+#No se determina el compuesto químico con exactitud

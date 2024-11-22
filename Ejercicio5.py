@@ -18,4 +18,4 @@ Monto=int(input("Introduce el monto ingresado $5000 o $10000:"))
 Respuesta=Maquina_Expendedor(Monto)
 #Imprimir el resultado
 print(Respuesta)
-
+#Problemas con la linea 18 

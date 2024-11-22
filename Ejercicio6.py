@@ -23,3 +23,4 @@ elif Opcion==2:
     print("Radianes equivalen a grados.")
 else:
     print("Opción no válida. Por favor, elija 1 o 2.")
+#Programa cumple con las especificaciones solicitdas

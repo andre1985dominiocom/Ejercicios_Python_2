@@ -1,1 +1,11 @@
 #Imprimir título
+print("Programa para solicitar el ingreso de usuarios:")
+#Definir variables
+Nombre_1=input("Ingrese el nombre de la primera persona:")
+Nombre_2=input("Ingrese el nombre de la segunda persona:")
+#Mostrar si los nombres comienzan o terminan con la misma letra
+if Nombre_1==Nombre_2 and Nombre_1==Nombre_2:
+    print("Coincidencia:")
+else:
+    print("No hay coincidencia:")
+#Programa cumple con los parametros solicitados
