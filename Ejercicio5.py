@@ -6,7 +6,7 @@ def maquina_expendedora(Monto):
 #Validar el monto ingresado
     if Monto==5000 or Monto==10000:
 #Calcular el cambio
-        cambio=monto-Costo_Dulce
+        cambio=Monto-Costo_Dulce
 #Entregar el dulce y el cambio
         return "Dulce entregado. Su cambio es de:"
     else:
